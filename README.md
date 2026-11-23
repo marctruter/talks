@@ -1,8 +1,6 @@
 # Talks
 
-## An Introduction to the Mathematical Foundations of AI Safety
-
-SISSA, 2026
+## An Introduction to the Mathematical Foundations of AI Safety, SISSA, 2026
 
 ### Introduction to Neural Networks
 
